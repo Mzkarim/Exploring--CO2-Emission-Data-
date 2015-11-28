@@ -1,4 +1,4 @@
-# Explore and Visualize World Bnak CO2 Emission Dataset By Country By Year Using Python
+# Explore and Visualize World Bank CO2 Emission Dataset By Country By Year Using Python
 
 
 **Abstract**
