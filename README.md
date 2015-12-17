@@ -1,8 +1,8 @@
-# Explore and Visualize World CO2 Emission Dataset By Country By Year Using Python
+# Exploring and Visualizing World CO2 Emission Dataset By Country By Year Using Pandas Dataframe in Python
 
 
 **Abstract**
-Exploratory data analysis is a critical step in understanding data. In this project, we use Python to clean, 
+Exploratory data analysis is a critical step in understanding data. In this project, we use Pandas dataframe in Python to clean, 
 explore, summarize, and visualize world bank CO2 emission dataset.
 
 **Dataset:** 
